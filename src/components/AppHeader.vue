@@ -9,7 +9,7 @@ export default {
 <template>
     <header class="header">
         <div class="logo">
-            <img :src="" alt="">
+            <img src="/img/dc-logo.png" alt="">
         </div>
     </header>
 </template>
