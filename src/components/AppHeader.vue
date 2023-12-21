@@ -25,12 +25,14 @@ export default {
     /* Stili per l'header */
 
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     /* align-items: center; */
-    padding: 1rem;
-
-
-
+    padding-top: 1rem;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    box-sizing: border-box;
 }
 </style>
   
