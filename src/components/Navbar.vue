@@ -22,18 +22,22 @@ export default {
 </template>
 <style lang="scss" scoped>
 .navbar {
+    display: flex;
+    align-items: center;
+
     ul {
 
         list-style-type: none;
         display: flex;
         gap: 1rem;
 
-        li {}
+
+
 
         a {
             text-decoration: none;
             color: #000;
-            padding-bottom: 67px;
+            padding-bottom: 40px;
 
 
 

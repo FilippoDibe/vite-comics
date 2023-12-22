@@ -29,8 +29,7 @@ export default {
     /* align-items: center; */
     padding-top: 1rem;
     background-color: white;
-    position: absolute;
-    top: 0;
+
     width: 100%;
     box-sizing: border-box;
 }

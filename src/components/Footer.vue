@@ -108,13 +108,15 @@ export default {
 .middle-blue-bar {
     background-color: #007dc3;
     padding: 50px 0;
+    width: 100vw;
+
 
     .content-container {
         display: flex;
         justify-content: center;
         align-items: center;
         gap: 20px;
-        padding-top: 50px;
+
 
         .blue-bar-item {
             color: white;
